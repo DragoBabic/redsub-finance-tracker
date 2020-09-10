@@ -13,6 +13,10 @@ gem 'devise'
 gem 'twitter-bootstrap-rails'
 # Use devise-bootstrap-views
 gem 'devise-bootstrap-views'
+# Use gem stock_quote
+gem 'stock_quote', '~> 3.0.0'
+# Use font-awesome-rails for icons
+gem "font-awesome-rails"
 # Use bootstrap-sas for stylesheets
 gem 'bootstrap-sass', '~> 3.4.1'
 # Use SCSS for stylesheets
